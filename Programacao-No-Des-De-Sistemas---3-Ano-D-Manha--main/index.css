@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(16, 16, 16) !important;
+    margin: 0; 
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.cadastro {
+    color: aliceblue;
+    text-align: center; 
+}
+
+.logo {
+    height: 300px; 
+    width: 300px;  
+    border-radius: 20px;
+    display: block;
+    margin: 20px auto; 
+    object-fit: cover; 
+}
